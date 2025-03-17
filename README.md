@@ -24,12 +24,17 @@ Start the program with the name of your model as the first parameter without the
 python gui.py en_US-example-medium
 ```
 
+https://github.com/user-attachments/assets/67c05ca7-bd1f-4a52-a2f5-c41d45775a16
+
+
 ### Shortcuts
 * CTRL+Enter: read text-to-speech
 * CTRL+A: clear the input box
 
 ### Connect output to an application
 Disconnect your microphone (optional) and connect **one channel** of the `python3.x [Audio Stream]` output to an input. Connecting both channels to an input will double the volume and cause distortion.
+
+https://github.com/user-attachments/assets/effaf25d-5133-4fe8-b545-42ad8b5091cd
 
 ## TODO
 These features will probably not be completed in the near future. They are here just for guidance.
