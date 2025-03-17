@@ -1,6 +1,6 @@
 # Quick Piper GUI
 
-This is a simple GUI application which allows you to quickly generate and play text-to-speech using [Piper](https://github.com/rhasspy/piper). The output of the program can be connected to your favourite VOIP application (on Linux using qpwgraph or Helvum), allowing you to speak even when circumstances don't permit. Pygame is used for the audio output which which provides a persistent audio device. 
+This is a simple GUI application which allows you to quickly generate and play text-to-speech using [Piper](https://github.com/rhasspy/piper). The output of the program can be connected to your favourite VOIP application (on Linux using qpwgraph or Helvum), allowing you to speak even when circumstances don't permit. Pygame is used for the audio output which provides a persistent audio device. 
 Additionally, you can use it to quickly generate text-to-speech audio; the last output is saved to the `./output` folder
 
 ## Requirements
