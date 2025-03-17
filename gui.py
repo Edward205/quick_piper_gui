@@ -6,7 +6,7 @@ from pygame import mixer
 import sys
 
 voice_name = ""
-print(len(sys.argv))
+
 if len(sys.argv) > 1:
     voice_name = sys.argv[1]
 else:
